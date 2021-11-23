@@ -1,0 +1,15 @@
+com\jdaltonlins\rankingtop\dao\UserModel.class
+com\jdaltonlins\rankingtop\RankingTopApplication.class
+com\jdaltonlins\rankingtop\RankingTopConfig.class
+com\jdaltonlins\rankingtop\routes\Rank.class
+com\jdaltonlins\rankingtop\db\RedisDatabase.class
+com\jdaltonlins\rankingtop\db\MongoDatabase.class
+com\jdaltonlins\rankingtop\routes\User.class
+com\jdaltonlins\rankingtop\dao\RankingModel.class
+com\jdaltonlins\rankingtop\routes\Points.class
+com\jdaltonlins\rankingtop\db\Database.class
+com\jdaltonlins\rankingtop\RankingTop.class
+com\jdaltonlins\rankingtop\dao\PointLog.class
+com\jdaltonlins\rankingtop\db\Result.class
+com\jdaltonlins\rankingtop\db\MySQLDatabase.class
+com\jdaltonlins\rankingtop\routes\RouterBase.class
